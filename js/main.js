@@ -52,7 +52,7 @@ $(document).ready(function() {
         delegate: 'a',
         type: 'inline',
         gallery: {
-            enabled: true
+            enabled: false
         }
     });
 
