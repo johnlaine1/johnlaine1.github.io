@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #grid .mix {
     width: 200px;
-    height: 150px;
+    height: 200px;
     vertical-align: top;
     margin: 20px 20px 20px 0;
     color: #fff;
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #grid .mix .overlay {
     width: 200px;
-    height: 150px;
+    height: 200px;
     position: absolute;
     opacity: 0;
 	top:0;
@@ -168,6 +168,10 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 1;
     color: #fff;
     padding-top: 30%;
+}
+.thumbnail-project-title {
+    color: #555555;
+    text-decoration: none;
 }
 .white-popup {
   position: relative;
