@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 #page-welcome header {
-    color: #fff;
+    color: #555555;
     padding-top: 20%;
 }
 #page-welcome header h1 {
@@ -345,7 +345,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 35px;
 }
 .social-icons .btn.btn-clear {
-    border: 1px solid #fff;
+    border: 1px solid #555555;
+    color: #555555;
 }
 .btn-round {
     border-radius: 50%;
@@ -380,26 +381,14 @@ h1, h2, h3, h4, h5, h6 {
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);
 }
-.btn-twitter:hover {
-    color: #2BA9E0;
+.btn-github:hover {
+    color: #555555;
 }
-.btn-facebook:hover {
-    color: #204385;
-}
-.btn-dribbble:hover {
-    color: #D92C85;
-}
-.btn-instagram:hover {
-    color: #BAB1A8;
+.btn-mail:hover {
+    color: #555555;
 }
 .btn-linkedin:hover {
     color: #015786;
-}
-.btn-pinterest:hover {
-    color: #CA2128;
-}
-.btn-google:hover {
-    color: #D3492C;
 }
 /* ==========================================================================
    Helper classes
