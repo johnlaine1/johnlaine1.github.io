@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #grid .mix .overlay {
     width: 200px;
-    height: 200px;
+    height: 192px;
     position: absolute;
     opacity: 0;
 	top:0;
