@@ -192,6 +192,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     word-spacing: 10px;
 }
+.project-thumbnail img {
+    border: 3px solid black;
+}
 .isotope-item {
     z-index: 2;
 }
